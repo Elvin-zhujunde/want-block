@@ -25,7 +25,5 @@ dist-ssr
 *.sw?
 
 private
-
-
 yarn.lock
 package-lock.json
